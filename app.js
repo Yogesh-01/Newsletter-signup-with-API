@@ -81,40 +81,13 @@ app.listen(process.env.PORT || 3000,function(){  // to allow heroku to listen to
 
 
 
-/** Mail chimp account details
- *  email: bifiva7542@ppp998.com
- *  username: yogesh866
- *  pass: Yogesh@123
- *  API key: c2e78801c015f646e29d6271ab40d69a-us5
- */
 
-/** new Mailchimp account
- * email: yefohit360@posiklan.com
- * username: hehe789
- * pass: Hehe@789
- * API key: 8cdb8dcf89c78f27b29c119dc595f305-us5
- */
-
-/** new Mailchimp account
- * email: yogasen917@stvbz.com
- * username: hehe12345
- * pass: Hehe@123
- * API key: 9f5090f43919c173e7228eecc173a323-us5
- * Audience ID : dba303f925
- */
-
-/** newer mailchimp account
- * email: jigom21537@rebation.com
- * username: hehe123456
- * pass: Hehe@12345
- * API key: 92431e1ac87c7df7b7d7d400ff18d5cc-us5
- * Audience ID: e76ca453fe
- * 
- 
+ /**
  newer mailchimp account
  * email: 
 
  * API key: f8fe306aafaebe3364a017ad9920b476-us5
  * Audience ID: af11feb084
+ * heroku link : https://mysterious-mountain-02054.herokuapp.com/
  
  */
